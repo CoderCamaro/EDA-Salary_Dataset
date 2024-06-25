@@ -1,3 +1,3 @@
-# EDA-Salary_dataset
+# EDA-Salary_Dataset
 
 ![](Salary_Dataset.png)
